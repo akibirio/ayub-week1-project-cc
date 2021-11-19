@@ -2,7 +2,7 @@
 body{
 	padding:0;
 	margin:0;
-	background:lightcoral;
+	background:lightcyan;
 	position:relative;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
@@ -445,80 +445,6 @@ h3.heading:after {
 }
 /*-- //experience --*/
 
-/*-- blog -*/
-.blog {
-    background: url(../images/blog.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    background-attachment: fixed;
-}
-.blog h3.heading,.services h3.heading{
-	color: #fff;
-}
-.blog h3.heading:after,.services h3.heading:after{
-	background: #fff;
-}
-.blog-grids {
-    margin-top: 5em; 
-}
-.blog-grid1 p  {
-    color: #aaa;
-    line-height: 28px;
-    letter-spacing: .5px;
-    font-size: 14px;
-}
-p.left-grid-blog  {
-    color: #ccc;
-    line-height: 28px;
-    letter-spacing: .5px;
-    font-size: 14px;
-	margin-bottom: 18px;
-}
-.blog-grid1 h4 {
-    font-size: 22px;
-    line-height: 30px;
-    text-transform: capitalize;
-    margin: .5em 0;
-    letter-spacing: 1px;
-    color: #fff;
-}
-.blog-grid1 h5 {
-    font-size: 16px;
-    color: #ccc;
-    letter-spacing: 1px;
-    margin-bottom: 1em;
-}
-.blog-grid1 {
-    border: 2px solid #ccc;
-    padding: 2em;
-    background: rgba(0, 0, 0, 0.3);
-	transition: 0.5s all;
-	-webkit-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-ms-transition: 0.5s all;
-	-o-transition: 0.5s all;
-}
-.blog-grid1:hover {
-    background: none;
-	transition: 0.5s all;
-	-webkit-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-ms-transition: 0.5s all;
-	-o-transition: 0.5s all;
-}
-h4.left-grid-blog {
-    font-size: 28px;
-    line-height: 30px;
-    text-transform: capitalize;
-    font-weight: 600;
-    color: #fff;
-    letter-spacing: 2px;
-	margin-bottom: .7em;
-}
-/*-- //blog -*/
 
 /*-- projects --*/
 .project-grids{
@@ -571,67 +497,7 @@ a.sb {
 }
 /*-- //projects --*/
 
-/*-- clients--*/
-.testimonials {
-    background: #333;
-	background:url(../images/test.jpg) no-repeat 0px 0px;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-ms-background-size:cover;
-     background-attachment: fixed;
-}
-.testimonials h3.heading{
-    color: #fff;
-}
-.testimonials h3.heading:after{
-    background: #fff;
-}
-.clients {
-    margin-top: 5em;
-}
-.test-image{
-	width: 28%;
-	padding: 0 50px;
-	float: left;
-}
-.test-review{
-	width: 72%;
-	float: left;
-}
-.test-image img {
-    border-radius: 50%;
-}
-.test-review h5 {
-    color: #fff;
-    letter-spacing: 1px;
-    font-size: 23px;
-    font-weight: 600;
-    margin-bottom: 15px;
-    text-transform: capitalize;
-}
-.test-review p {
-    color: #ccc;
-    font-size: 15px;
-    letter-spacing: 1px;
-    line-height: 32px;
-    padding-left: 45px;
-    margin-left: 10px;
-    border-left: 4px solid #fff;
-}
 
-.test-review p.date {
-    padding-left: 0px;
-    margin-left: 0px;
-	margin-top: 15px;
-    border-left: 1px solid transparent;
-}
-i.fa.fa-quote-right, i.fa.fa-quote-left {
-    margin: 0 1em;
-    color: #fff;
-}
-/*-- //clients--*/
 
 /*--  contact --*/
 .contact-grids {
