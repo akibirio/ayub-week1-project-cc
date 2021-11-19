@@ -1,8 +1,11 @@
 "# ayub-week1-project-cc" 
+
 project Name: Portfolio Landing Page
-author name: Ayub Gakuru Kibirio
-description of project: A Website acting as a landing page for my programming portfolio.
-project setup instructions:
+
+Author Name: Ayub Gakuru Kibirio
+
+Description of project: A Website acting as a landing page for my programming portfolio.
+Project setup instructions:
   Here are the requirements for your page:
         Your name
         An image of you or something that represents who you are
